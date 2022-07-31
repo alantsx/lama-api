@@ -9,8 +9,8 @@
 ### To-dos
 
 - [ ] User Registration
-        - [x] Create User
-        - [ ] MFA Setup
+  - [x] Create User
+  - [ ] MFA Setup
 - [ ] User login
 - [ ] User Balances
 - [ ] User Info
