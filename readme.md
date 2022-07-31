@@ -9,13 +9,13 @@
 ### To-dos
 
 - [ ] User Registration
-        - [ ✔️ ] Create User
+        - [x] Create User
         - [ ] MFA Setup
 - [ ] User login
 - [ ] User Balances
 - [ ] User Info
 
 - [ ] Database creation setup explanation
-- [ ✔️ ] TypeScript/MongoDB config
+- [x] TypeScript/MongoDB config
 - [ ] Swagger Documentation for Endpoints
-- [ ✔️ ] ESLint configuration
+- [x] ESLint configuration
