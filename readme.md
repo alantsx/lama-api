@@ -8,14 +8,14 @@
 
 ### To-dos
 
-[ ] User Registration
-        [✔️] Create User
-        [ ] MFA Setup
-[ ] User login
-[ ] User Balances
-[ ] User Info
+- [ ] User Registration
+        - [✔️] Create User
+        - [ ] MFA Setup
+- [ ] User login
+- [ ] User Balances
+- [ ] User Info
 
-[ ] Database creation setup explanation
-[✔️] TypeScript/MongoDB config
-[ ] Swagger Documentation for Endpoints
-[✔️] ESLint configuration
+- [ ] Database creation setup explanation
+- [✔️] TypeScript/MongoDB config
+- [ ] Swagger Documentation for Endpoints
+- [✔️] ESLint configuration
